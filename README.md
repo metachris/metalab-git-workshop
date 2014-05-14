@@ -16,3 +16,4 @@ Participate Here
 * `git init` on a existing repository doesn't do much
 * `git push --force` is evil
 * add whatever you want :P
+* someone made me add this line
