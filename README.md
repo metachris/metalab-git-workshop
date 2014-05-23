@@ -36,3 +36,15 @@ Always needed!
     adipiscing elit. Donec mattis ligula quis lorem posuere, id faucibus libero
     tincidunt. Sed eu sollicitudin felis. Vivamus sed rhoncus tortor. Nulla eros
     velit, tincidunt ut blandit quis, gravida et leo.
+
+   ,-""""-.
+   ,'      _ `.
+  /       )_)  \
+ :              :
+ \              /
+  \            /
+   `.        ,'
+     `.    ,'
+       `.,'
+        /\`.   ,-._
+            `-'    
