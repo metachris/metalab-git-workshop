@@ -15,7 +15,7 @@ Participate Here
 ----------------
 * `git init` on a existing repository doesn't do much
 * `git push --force` is evil
-* add whatever you want :P
+* git it!
 * someone made me add this line
 * <- another one! (don't know how to add myself to the metalab wiki list.)
 * TODO: remove this line.
