@@ -18,8 +18,8 @@ Participate Here
 * git it!
 * someone made me add this line
 * <- another one! (don't know how to add myself to the metalab wiki list.)
-* participating here
-* TODO: remove this line.
+* participating here +1 hetti
+
 
 Lorem Ipsum
 -----------
