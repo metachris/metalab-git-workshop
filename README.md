@@ -13,6 +13,10 @@ Repo for the GIT workshop at Metalab Hauptraum, 27.5.2014, 19:00. Happy forking!
 
 Participate Here
 ----------------
+
+        PUBER
+
+
 * `git init` on a existing repository doesn't do much
 * `git push --force` is evil
 * git it!
@@ -21,6 +25,7 @@ Participate Here
 * participating here +1 hetti
 * this workshop needs moar Mate
 * just another line
+
 
 Lorem Ipsum
 -----------
@@ -69,3 +74,7 @@ Always needed!
 ░▄██▄░░░░░▀▀▀▄▄▄▄▀▀░░░░░░░░░█░░░░░░░▀▀█▄
 ░░▀▀▀▀▄▄░░░░░░░░░░░░░░░░░░░░█▄▄▄▄▄▄▄▄▄██
 ░░░░░░░░▀▀▀▄▄▄▄▄░░░░░░░░░░░░░░░░░░░░░░░░
+
+
+
+
