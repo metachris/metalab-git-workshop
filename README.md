@@ -26,6 +26,7 @@ Participate Here
 * this workshop needs moar Mate
 * just another line
 * lines are not good for you
+* workshop
 
 
 Lorem Ipsum
