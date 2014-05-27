@@ -15,6 +15,7 @@ Participate Here
 ----------------
 
         PUBER ist Huber!
+PUBER muss 2 Runden aussetzen und kassiert keine 200euro
 
 
 * `git init` on a existing repository doesn't do much
