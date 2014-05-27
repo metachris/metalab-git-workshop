@@ -180,3 +180,5 @@ WOWO we fix issues
 
 
 mimimimimi
+* `git lol` is great
+* add whatever you want :P
