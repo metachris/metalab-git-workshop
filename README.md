@@ -8,13 +8,19 @@
                                           __/ |                                               | |
                                          |___/                                                |_|
 ```
+NOCH EIN CHANGE dsdas
+dsgfdsag
+change1 AND change2 Repo for the GIT workshop at Metalab Hauptraum, 27.5.2014, 19:00. Happy forking!
+kljlkjlkj
 
-Repo for the GIT workshop at Metalab Hauptraum, 27.5.2014, 19:00. Happy forking!
+
+dsgfdsgsg
 
 Participate Here
 ----------------
 
         PUBER ist Huber!
+PUBER muss 2 Runden aussetzen und kassiert keine 200euro
 
 
 * `git init` on a existing repository doesn't do much
@@ -114,3 +120,4 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$p._.ggp._.d$$$$b
 
 
 :'( ... ICH WILL AUCH!
+Ja!
