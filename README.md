@@ -1,3 +1,11 @@
+Metalab git workshop
+====================
+###WTF?
+[DRCS](https://en.wikipedia.org/wiki/Distributed_revision_control)
+
+###Files
+Main directory includes ```README.md```and ```NOTES```+```DATE```+```.md```. You can use the README.md and/or the ```Sandbox```-Directory.
+
 ```
                 _        _       _             _ _                        _        _
                | |      | |     | |           (_) |                      | |      | |
