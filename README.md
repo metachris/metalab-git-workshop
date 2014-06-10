@@ -33,6 +33,7 @@ PUBER muss 2 Runden aussetzen und kassiert keine 200euro
 
 * `git init` on a existing repository doesn't do much
 * `git push --force` is evil
+  * even when using rebase to prepare for a pull request?
 * git it!
 * someone made me add this line
 * <- another one! (don't know how to add myself to the metalab wiki list.)
